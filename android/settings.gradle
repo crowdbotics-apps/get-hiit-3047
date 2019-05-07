@@ -1,0 +1,3 @@
+rootProject.name = 'get_hiit_3047'
+
+include ':app'
